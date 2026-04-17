@@ -1,6 +1,6 @@
 # Village Ops Playbook
 
-Context files for running a high-velocity startup with AI-powered operations. Built by the team at [The Village](https://thevillageapp.co) during our pre-seed sprint.
+Context files for running a high-velocity startup with AI-powered operations. Built by the team at [The Village](https://thevillageapp.com) during our pre-seed sprint.
 
 ## What this is
 
